@@ -32,7 +32,7 @@ Disclaimer of Warranties:
     </div>
         <div className='GTK'>
         <div id="main">GET TO KNOW</div>
-            <div id="topic">address:GRIET,bachupalli</div><div id="topic">saketdog@gmail.com</div>
+            <div id="topic">address:Telangana,Hyderabad</div><div id="topic">nikhil@gmail.com</div>
             <div id="topic">MON-FRI</div><div id="topic">10AM-6PM</div>
             <div id="topic">SAT-SUN</div><div id="topic">9AM-8PM</div>
         </div>
